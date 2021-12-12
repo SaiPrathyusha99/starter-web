@@ -3,6 +3,8 @@
 
 # TEAM
 
+     Pinky        pinky@123    @pinky99
+
     <name> -- <role> -- <twitter>
 
 # THANKS
